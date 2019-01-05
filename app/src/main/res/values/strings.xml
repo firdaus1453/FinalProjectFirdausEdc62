@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Team Firdaus</string>
+    <string name="nama_stadium">nama stadium</string>
+    <string name="football_team">Football Team</string>
+    <string name="nama_club">Nama club</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="logo_team">logo team</string>
+</resources>
